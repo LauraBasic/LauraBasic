@@ -4,6 +4,7 @@
   <img align="right" alt="Laura-GIF"  height="200" width="200" src="https://cdn.discordapp.com/attachments/694355177641345094/871793777864507432/GIF_GITHUB_3.gif">
 </div>
 <br>
+<br>
 
 - 💻 Estudando Desenvolvimento Front End
 - 🧠 Me aprofundando em JavaScript, Python e MySQL
