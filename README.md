@@ -1,6 +1,6 @@
 <h1>Olá, meu nome é Laura! 🤙🏽</h1>
 <h2>
-<!--   <img align="right" alt="Laura-GIF"  height="220" width="220" src="https://cdn.discordapp.com/attachments/694355177641345094/871793777864507432/GIF_GITHUB_3.gif"> -->
+  <img align="right" alt="Laura-GIF"  height="220" width="220" src="https://cdn.discordapp.com/attachments/694355177641345094/871793777864507432/GIF_GITHUB_3.gif">
 </h2>
 
 <h3>
