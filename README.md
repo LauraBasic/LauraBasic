@@ -1,6 +1,6 @@
 <h1>Olá, meu nome é Laura! 🤙🏽</h1>
 <h2>
-  <img align="right" alt="Laura-GIF"  height="220" width="220" src="https://cdn.discordapp.com/attachments/694355177641345094/871793777864507432/GIF_GITHUB_3.gif">
+<!--   <img align="right" alt="Laura-GIF"  height="220" width="220" src="https://cdn.discordapp.com/attachments/694355177641345094/871793777864507432/GIF_GITHUB_3.gif"> -->
 </h2>
 
 <h3>
@@ -11,7 +11,6 @@
 <li> 🧠 Me aprofundando em JavaScript, Python e MySQL </li> 
 <li> 🚀 Pretendo estudar React Native </li> 
 <li> 👩🏽‍💼 Estou buscando oportunidades para desenvolvedora júnior ou estagiária </li> 
-<li> 😀 Pronomes: ela/dela </li> 
 <li> 🎮 Hobbies: animes, música e jogos.</li> 
 </br>
 
