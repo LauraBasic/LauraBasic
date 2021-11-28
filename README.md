@@ -8,8 +8,8 @@
 </h3>
 
 <li> 💻 Estudando Desenvolvimento Front End </li> 
-<li> 🧠 Me aprofundando em JavaScript, Python e MySQL </li> 
-<li> 🚀 Pretendo estudar React Native </li> 
+<li> 🧠 Me aprofundando em JavaScript</li> 
+<li> 🚀 Iniciando React Native </li> 
 <li> 👩🏽‍💼 Estou buscando oportunidades para desenvolvedora júnior ou estagiária </li> 
 <li> 🎮 Hobbies: animes, música e jogos.</li> 
 </br>
