@@ -41,7 +41,7 @@
   <a href = "https://open.spotify.com/playlist/4VvampEsdq6D4AiDRF76in?si=f45951172f4744e2" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   
   
-  ![Snake animation](https://github.com/LauraBasic/LauraBasic/blob/output/github-contribution-grid-snake.svg)
+
   
 <h3>Obrigada por visitar meu perfil :) <img height="45" src="https://emoji.gg/assets/emoji/5206-pug-dance.gif"</h3>
   
