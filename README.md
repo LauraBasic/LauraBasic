@@ -9,7 +9,7 @@
 
 <li> 💻 Estudando Desenvolvimento Front End </li> 
 <li> 🧠 Apaixonada por JavaScript</li> 
-<li> 🚀 Estudando React Native </li> 
+<li> 🚀 Estudando ReactJS </li> 
 <li> 👩🏽‍💼 Estou buscando oportunidades para desenvolvedora júnior ou estagiária </li> 
 <li> 🎮 Hobbies: animes, música e jogos.</li> 
 </br>
