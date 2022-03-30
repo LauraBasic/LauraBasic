@@ -1,4 +1,4 @@
-<h1>Olá, meu nome é Laura! 🤙🏽</h1>
+<h1>Olá, meu nome é Dante! 🤙🏽</h1>
 <h2>
   <img align="right" alt="Laura-GIF"  height="220" width="220" src="https://cdn.discordapp.com/attachments/694355177641345094/871793777864507432/GIF_GITHUB_3.gif">
 </h2>
@@ -8,9 +8,9 @@
 </h3>
 
 <li> 💻 Estudando Desenvolvimento Front End </li> 
-<li> 🧠 Apaixonada por JavaScript</li> 
+<li> 🧠 Apaixonado por JavaScript</li> 
 <li> 🚀 Estudando ReactJS </li> 
-<li> 👩🏽‍💼 Estou buscando oportunidades para desenvolvedora júnior ou estagiária </li> 
+<li> 👩🏽‍💼 Estou buscando oportunidades para desenvolvedor júnior ou estagiário </li> 
 <li> 🎮 Hobbies: animes, música e jogos.</li> 
 </br>
 
@@ -47,4 +47,4 @@
   
 #
   
-<h4>Créditos: <a href="https://github.com/LauraBasic">Laura Alves</a></h4>
+<h4>Créditos: <a href="https://github.com/LauraBasic">Dante Gabriel Alves</a></h4>
