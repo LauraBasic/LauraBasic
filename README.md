@@ -10,8 +10,8 @@
 <li> 💻 Estudando Desenvolvimento Front End </li> 
 <li> 🧠 Apaixonado por JavaScript</li> 
 <li> 🚀 Me especializando em ReactJS </li> 
+<li> ✨ Sempre disposto à aprender algo novo </li> 
 <li> 👩🏽‍💼 Estou buscando oportunidades para desenvolvedor júnior ou estagiário </li> 
-<li> 🎮 Hobbies: animes, música e jogos.</li> 
 </br>
 
 <div>
