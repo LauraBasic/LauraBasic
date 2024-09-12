@@ -11,7 +11,7 @@
 <li> 🧠 Apaixonado por JavaScript</li> 
 <li> 🚀 Me especializando em ReactJS </li> 
 <li> ✨ Sempre disposto à aprender algo novo </li> 
-<li> 👩🏽‍💼 Estou buscando oportunidades para desenvolvedor júnior ou analista </li> 
+<!-- <li> 👩🏽‍💼 Estou buscando oportunidades para desenvolvedor júnior ou analista </li>  -->
 </br>
 
 <div>
