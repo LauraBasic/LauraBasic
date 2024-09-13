@@ -1,50 +1,45 @@
-<h1>Olá, meu nome é Dante! 🤙🏽</h1>
-<h2>
-  <img align="right" alt="Laura-GIF"  height="220" width="220" src="https://cdn.discordapp.com/attachments/694355177641345094/871793777864507432/GIF_GITHUB_3.gif">
-</h2>
+# Olá, eu sou o Dante 👋🏼
 
-<h3>
-  <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/>Sobre Mim
-</h3>
+Sou um desenvolvedor Front-end apaixonado por criar interfaces interativas e eficientes usando **React.js** e **TypeScript**. Atualmente, estou trabalhando na [Preeset](https://preeset.com), onde aplico minhas habilidades para construir soluções inovadoras e de alta qualidade.
 
-<li> 💻 Estudando Desenvolvimento Front End </li> 
-<li> 🧠 Apaixonado por JavaScript</li> 
-<li> 🚀 Me especializando em ReactJS </li> 
-<li> ✨ Sempre disposto à aprender algo novo </li> 
-<!-- <li> 👩🏽‍💼 Estou buscando oportunidades para desenvolvedor júnior ou analista </li>  -->
-</br>
+## 🛠️ Tecnologias e Ferramentas
 
-<div>
-  <a href="https://github.com/LauraBasic">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dantealves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantealves&layout=compact&langs_count=7&theme=tokyonight"/>
-    </div>
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Dante-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dante-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dante-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dante-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Dante-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Dante-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Dante-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Dante-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
-  <img align="center" alt="Dante-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> 
-</div>
+- **Linguagens:** JavaScript (React.js), TypeScript
+- **Bibliotecas e Frameworks:** React.js, Redux, Next.js
+- **Ferramentas:** Git, Trello e Jira
+- **Design e UX:** Noções de UX/UI design para criar interfaces amigáveis e intuitivas
+- **Metodologias Ágeis:** Experiência como Scrum Master
 
- 
-## 
-  
+## 📚 Portfolio
 
-  <a href = "mailto:dantegl2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+Você pode conferir alguns dos meus projetos no [meu portfolio pessoal](https://dantegabriel-tech.netlify.app/). Lá, você encontrará uma seleção dos meus trabalhos mais recentes e um pouco mais sobre mim.
 
+## 📝 Boas Práticas
 
-  
-  
+### Comentários em Commits
 
-  
-<h3>Obrigada por visitar meu perfil :) <img height="45" src="https://emoji.gg/assets/emoji/5206-pug-dance.gif"</h3>
-  
-#
-  
-<h4>Créditos: <a href="https://github.com/LauraBasic">Dante Gabriel Alves</a></h4>
+Adoto o uso de commits semânticos para garantir que o histórico do projeto seja claro e compreensível. Aqui estão algumas diretrizes que sigo:
+
+- **Tipo:** Utilize prefixos para descrever o tipo de mudança (`feat` para novas funcionalidades, `fix` para correções de bugs, `docs` para documentação, etc.).
+- **Descrição:** Mantenha as mensagens de commit concisas e informativas. A primeira linha deve ser uma breve descrição do que foi feito (até 50 caracteres) e, se necessário, inclua um corpo mais detalhado.
+
+Exemplos de mensagens de commit:
+- `FEAT: adicionar novo componente de formulário`
+- `fix: corrigir erro de validação no componente de login`
+- `DOCS: atualizar README com informações sobre configuração`
+
+### README Informativo
+
+Para manter o README informativo e útil, eu sigo estas práticas:
+
+- **Introdução:** Forneço uma visão geral clara do projeto, incluindo o que ele faz e qual problema resolve.
+- **Tecnologias e Ferramentas:** Descrevo as principais tecnologias e ferramentas usadas no projeto.
+- **Instruções de Uso:** Incluo um guia sobre como instalar, configurar e usar o projeto.
+- **Contribuição:** Explico como outros desenvolvedores podem contribuir para o projeto.
+- **Licença:** Adiciono informações sobre a licença do projeto para esclarecer os termos de uso e redistribuição.
+
+## 📫 Entre em Contato
+
+- **Email:** dantegl2000@gmail.com
+
+Estou sempre aberto a novas oportunidades e desafios. Se você tiver um projeto interessante ou apenas quiser conversar sobre tecnologia, sinta-se à vontade para entrar em contato!
